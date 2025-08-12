@@ -5,12 +5,12 @@ The default theme directory for gedit is ~/.local/share/libgedit-gtksourceview-3
 
 1. Clone the repo / download the theme file:
 ```bash
-git clone https://github.com/andrewpayne68/matrix-black-gedit46
+git clone https://github.com/andrewpayne68/black-gedit46
 ```
 
 2. Copy the themes to the intended location:
 ```bash
-cd matrix-black-gedit46
+cd black-gedit46
 cp *.xml ~/.local/share/libgedit-gtksourceview-300/styles/
 ```
 
