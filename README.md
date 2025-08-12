@@ -17,3 +17,5 @@ cp matrix-black.xml ~/.local/share/libgedit-gtksourceview-300/styles/
 3. Select the Matrix Black theme in gedit (under Preferences / Font & Colours)
 
 Et Voilà. Enjoy.
+
+EDIT: I have also uploaded a Black version of the popular Dracula Theme
