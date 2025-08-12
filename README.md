@@ -1,19 +1,19 @@
-# nord-gedit
-The one and only working Nord theme on github for the recent versions of Gedit (46+)
+# matrix-black
+Matrix Black theme for the recent versions of Gedit (46+)
 
 # Installation
 The default theme directory for gedit is ~/.local/share/libgedit-gtksourceview-300/styles/ so all you need to do is:
 1. Clone the repo / download the theme file:
 ```bash
-git clone https://github.com/m1youb/nord-gedit
+git clone https://github.com/andrewpayne68/matrix-black-gedit46
 ```
 
 2. Copy the theme to the intended location:
 ```bash
-cd nord-gedit
-cp nord.xml ~/.local/share/libgedit-gtksourceview-300/styles/
+cd matrix-black-gedit46
+cp matrix-black.xml ~/.local/share/libgedit-gtksourceview-300/styles/
 ```
 
-3. Select the Nord theme in gedit.
+3. Select the Matrix Black theme in gedit (under Preferences / Font & Colours)
 
-And Voilà. Enjoy your beautiful Gedit.
+Et Voilà. Enjoy.
