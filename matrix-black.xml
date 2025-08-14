@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Author 2025 Matrix Theme by andrewpayne68 https://gist.github.com/andrewpayne68/
+14-08-2025 Matrix Theme V2 by andrewpayne68 https://gist.github.com/andrewpayne68/
 -->
 
 <style-scheme id="matrix-black" name="Matrix Black" kind="dark">
@@ -11,28 +11,25 @@ Author 2025 Matrix Theme by andrewpayne68 https://gist.github.com/andrewpayne68/
 	<color name="current-line" value="#01230a"/>
 	<color name="selection" value="#50fa7b"/>
 	<color name="foreground" value="#f8f8f2"/>
-	<color name="comment" value="#77fa98"/>
-	<color name="green" value="#08cd39"/>	
-	<color name="orange" value="#ffb86c"/>
-	<color name="red" value="#ff5555"/>
-
+	<color name="comment" value="#5c7e5f"/>
+	<color name="green" value="#00ff00"/>	
+	<color name="black" value="#000000"/>
 
 	<!-- Helper colors -->
 	<color name="white" value="#ffffff"/>
 	<color name="bone-white" value="#f8f8f0"/>
 	<color name="weird-gray" value="#909194"/>
-	<color name="dark-green" value="#049529"/>
+	<color name="dark-green" value="#04b832"/>
 	<color name="light-green" value="#affdc3"/>
 
 	<style name="text" foreground="dark-green" background="background"/>
 	<style name="selection" foreground="dark-green" background="selection"/>
 	<style name="cursor" foreground="white" background="white"/>
 	<style name="current-line" foreground="current-line" background="current-line"/>
-	<style name="line-numbers" foreground="dark-green" background="background"/>
-	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
-	<style name="search-match" foreground="selection" background="green"/>
+	<style name="line-numbers" foreground="green" background="background"/>
+	<style name="bracket-match" foreground="green" background="background" bold="true"/>
+	<style name="search-match" foreground="dark-green" background="green" bold="true"/>
         <style name="background-pattern" background="#2f313e"/>
-
 
 	<style name="def:function" foreground="green"/>
 	<style name="def:identifier" foreground="dark-green"/>
@@ -53,7 +50,6 @@ Author 2025 Matrix Theme by andrewpayne68 https://gist.github.com/andrewpayne68/
 	<style name="python:class-name" foreground="white"/>
 	<style name="python:special-variable" foreground="light-green"/>
 	<style name="python:builtin-constant" foreground="dark-green"/>
-
 
 	<style name="def:specials" foreground="#f8f8f2"/>
 	<style name="def:statement" foreground="dark-green"/>
