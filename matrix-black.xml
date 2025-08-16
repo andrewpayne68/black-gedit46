@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-14-08-2025 Matrix Theme V2 by andrewpayne68 https://gist.github.com/andrewpayne68/
+16-08-2025 Matrix Theme V3 by andrewpayne68 https://gist.github.com/andrewpayne68/
 -->
 
 <style-scheme id="matrix-black" name="Matrix Black" kind="dark">
@@ -22,7 +22,7 @@
 	<color name="dark-green" value="#04b832"/>
 	<color name="light-green" value="#affdc3"/>
 
-	<style name="text" foreground="dark-green" background="background"/>
+	<style name="text" foreground="green" background="background"/>
 	<style name="selection" foreground="dark-green" background="selection"/>
 	<style name="cursor" foreground="white" background="white"/>
 	<style name="current-line" foreground="current-line" background="current-line"/>
