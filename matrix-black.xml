@@ -9,7 +9,7 @@ Author 2025 Matrix Theme by andrewpayne68 https://gist.github.com/andrewpayne68/
 	<!-- Matrix colors -->
 	<color name="background" value="#000000"/>
 	<color name="current-line" value="#01230a"/>
-	<color name="selection" value="#00ff00"/>
+	<color name="selection" value="#4d4d4d"/>
 	<color name="foreground" value="#f8f8f2"/>
 	<color name="comment" value="#77fa98"/>
 	<color name="green" value="#00ff00"/>	
@@ -25,7 +25,7 @@ Author 2025 Matrix Theme by andrewpayne68 https://gist.github.com/andrewpayne68/
 	<color name="light-green" value="#affdc3"/>
 
 	<style name="text" foreground="green" background="background"/>
-	<style name="selection" foreground="dark-green" background="selection"/>
+  	<style name="selection" foreground="green" background="selection"/>
 	<style name="cursor" foreground="white" background="white"/>
 	<style name="current-line" foreground="current-line" background="current-line"/>
 	<style name="line-numbers" foreground="dark-green" background="background"/>
